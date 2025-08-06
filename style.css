@@ -33,11 +33,11 @@ form input{
     outline: 0;
     background:#000;
     color: #fff;
-    padding: 0 30px;
+    padding: 0 20px;
     font-size: 18px;
 }
 form button{
-    padding: 0% 30px;
+    padding: 0% 10px;
     height: 100%;
     /* background:#ff3929; */
     color:#fff;
@@ -50,7 +50,7 @@ form button{
     background: transparent;
 }
 form i{
-    padding: 0% 30px;
+    padding: 0% 10px;
     cursor: pointer;
     font-size: 25px;
     color: #fff;
