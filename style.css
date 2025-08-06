@@ -6,8 +6,8 @@
 }
 body{
     
-   background-image: linear-gradient(90deg, #020024 0%, #090979 15%, #00d4ff 50%);
-   
+   /* background-image: linear-gradient(90deg, #020024 0%, #090979 15%, #00d4ff 50%) url("7067c29f2c2336c23c827cfda44e7c61.gif") no-repeat center / cover; */
+    background: url("bg.png") no-repeat center / 100% 100%;
 }
 h1{
     text-align: center;
@@ -31,10 +31,12 @@ form input{
     height: 100%;
     border: 0;
     outline: 0;
-    background:#000;
+    background:rgb(64, 88, 88);
     color: #fff;
     padding: 0 20px;
     font-size: 18px;
+     border-top-left-radius: 8px;
+    border-bottom-left-radius:8px ;
 }
 form button{
     padding: 0% 10px;
